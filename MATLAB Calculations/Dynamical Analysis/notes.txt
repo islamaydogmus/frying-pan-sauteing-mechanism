@@ -1,0 +1,6 @@
+Excel File Kinematic Analysis.xlsx is where we first logged data and took first numerical derivatives
+accAnalysisFiltered.mat is results of Kinematics.mlx file
+datacode.m is there for converting excel files into matlab code, we saved these datas onto KinematicData.mat file
+accfilter.mat is result of filtering in data_plotting.mlx
+matrixForm.mlx is for dynamical analysis, it's results are in DynamicalData.mat file
+lastly we obtained final graphs from draw_results.mlx
